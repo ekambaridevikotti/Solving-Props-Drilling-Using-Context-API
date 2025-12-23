@@ -16,13 +16,14 @@ Share data globally without manually passing props
 Identify components that no longer act as middlemen
 
 ## 🧩 Component Structure
+
 Component1
 
  └── Component2
  
      └── Component3
      
-         └── Component4
+         └── Component4 
          
              └── Component5
              
