@@ -17,10 +17,15 @@ Identify components that no longer act as middlemen
 
 ## 🧩 Component Structure
 Component1
+
  └── Component2
+ 
      └── Component3
+     
          └── Component4
+         
              └── Component5
+             
                  └── Component6
 
 ## 🗂 Folder Structure
